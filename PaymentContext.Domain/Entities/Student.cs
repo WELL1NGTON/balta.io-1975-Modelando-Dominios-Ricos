@@ -35,3 +35,8 @@ namespace PaymentContext.Domain.Entities
         }
     }
 }
+
+// Recomendação de leitura do André Baltieri:
+// Clean Code - Robert C. Martin (Uncle Bob)
+// Clean Coder - Robert C. Martin (Uncle Bob)
+// Clean Architecture - Robert C. Martin (Uncle Bob)
